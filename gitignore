@@ -4,3 +4,6 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+FB_PAGE_ACCESS_TOKEN=seu_token_real_aqui
+FB_VERIFY_TOKEN=seu_verify_token_aqui
+FB_APP_SECRET=seu_app_secret_aqui
