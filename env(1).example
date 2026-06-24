@@ -1,0 +1,4 @@
+# Copie este arquivo para .env e preencha com seus valores reais
+FB_EMAIL=seu_email@facebook.com
+FB_PASSWORD=sua_senha_aqui
+BOT_CONFIG=config.json
